@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PizzaAppBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30f67a42c712b6e534e9cb1f7389af84d71563b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b49d7bffc34bc829b475aadbf12bcfad1afcd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PizzaAppBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PizzaAppBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

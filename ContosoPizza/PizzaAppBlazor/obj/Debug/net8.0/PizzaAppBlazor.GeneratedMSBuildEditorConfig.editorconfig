@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/Pages/BuyPizza.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV5UGl6emEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/Pages/Checkout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -74,6 +82,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/Pages/OrderSuccess.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJTdWNjZXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/Pages/PizzaDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cheri/OneDrive/Documents/GitHub/Tp6-Archi/ContosoPizza/PizzaAppBlazor/Pages/Pizzas.razor]

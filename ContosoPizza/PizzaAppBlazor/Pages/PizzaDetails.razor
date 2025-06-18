@@ -1,0 +1,22 @@
+@page "/pizza/{PizzaName}"
+@using Microsoft.AspNetCore.WebUtilities
+@inject NavigationManager NavManager
+
+<h3>Détail de la pizza : @PizzaName</h3>
+<p>Extra topping : @Topping</p>
+
+@code {
+    [Parameter]
+    public string PizzaName { get; set; }
+
+    public string Topping { get; set; }
+
+    protected override void OnInitialized()
+    {
+        var uri = NavManager.ToAbsoluteUri(NavManager.Uri);
+        if (QueryHelpers.ParseQuery(uri.Query).TryGetValue("extratopping", out var topping))
+        {
+            Topping = topping;
+        }
+    }
+}
