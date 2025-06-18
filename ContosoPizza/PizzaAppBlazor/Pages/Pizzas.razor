@@ -1,0 +1,46 @@
+@page "/pizzas"
+@inject HttpClient Http
+
+<h1>Nos pizzas disponibles</h1>
+
+@if (pizzas == null)
+{
+    <p>Chargement...</p>
+}
+else
+{
+    <div class="row">
+        @using PizzaAppBlazor.Components
+@foreach (var pizza in pizzas)
+        {
+            <div class="col-md-4 mb-4">
+                <PizzaCard Pizza="pizza" />
+                    <div class="card-body">
+                        <h5 class="card-title">@pizza.Name</h5>
+                        <p>@pizza.Description</p>
+                        <p><strong>@pizza.Price €</strong></p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    public class Pizza
+    {
+        public int PizzaId { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public decimal Price { get; set; }
+        public bool Vegetarian { get; set; }
+        public bool Vegan { get; set; }
+    }
+
+    private List<Pizza>? pizzas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pizzas = await Http.GetFromJsonAsync<List<Pizza>>("https://localhost:5001/api/Pizza");
+    }
+}

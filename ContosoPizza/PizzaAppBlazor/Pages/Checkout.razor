@@ -1,0 +1,19 @@
+@page "/checkout"
+@inject PizzaAppBlazor.Data.OrderState OrderState
+
+<h3>Commande</h3>
+
+@if (OrderState.CurrentOrder.Pizzas.Any())
+{
+    <ul>
+        @foreach (var pizza in OrderState.CurrentOrder.Pizzas)
+        {
+            <li>@pizza.Name - @pizza.BasePrice €</li>
+        }
+    </ul>
+    <p><strong>Total : @OrderState.CurrentOrder.Pizzas.Sum(p => p.BasePrice) €</strong></p>
+}
+else
+{
+    <p>Aucune pizza sélectionnée.</p>
+}

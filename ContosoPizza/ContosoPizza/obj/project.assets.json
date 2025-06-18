@@ -3660,11 +3660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\cheri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\obj\\",
+      "outputPath": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3679,6 +3679,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

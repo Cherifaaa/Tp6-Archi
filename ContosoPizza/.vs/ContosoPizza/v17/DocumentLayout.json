@@ -1,33 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\",
+  "WorkspaceRootPath": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\components\\pizzacard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\components\\pizzacard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\components\\pizzatopping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\components\\pizzatopping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\data\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\data\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\data\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\data\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\pages\\pizzas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\pages\\pizzas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\pizzaappblazor\\pizzaappblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A532C270-6991-4471-A454-94BCF07AD031}|PizzaAppBlazor\\PizzaAppBlazor.csproj|solutionrelative:pizzaappblazor\\pizzaappblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\models\\sauce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\models\\sauce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\sauce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\downloads\\contosopizza\\contosopizza\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|c:\\users\\cheri\\onedrive\\documents\\github\\tp6-archi\\contosopizza\\contosopizza\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63A1077-B7F6-452D-83F8-1B56DDEB5EB5}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,98 +74,213 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Data\\Extensions.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Data\\Extensions.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Data\\Extensions.cs",
-              "RelativeToolTip": "ContosoPizza\\Data\\Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:38:58.154Z",
+              "DocumentIndex": 0,
+              "Title": "Checkout.razor",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Pages\\Checkout.razor",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Pages\\Checkout.razor",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Pages\\Checkout.razor",
+              "RelativeToolTip": "PizzaAppBlazor\\Pages\\Checkout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T06:42:59.507Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "ContosoPizza\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:38:40.19Z",
+              "DocumentIndex": 2,
+              "Title": "PizzaTopping.razor",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Components\\PizzaTopping.razor",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Components\\PizzaTopping.razor",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Components\\PizzaTopping.razor",
+              "RelativeToolTip": "PizzaAppBlazor\\Components\\PizzaTopping.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T13:15:36.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Program.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Program.cs",
-              "RelativeToolTip": "ContosoPizza\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:23:10.941Z",
+              "Title": "PizzaCard.razor",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Components\\PizzaCard.razor",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Components\\PizzaCard.razor",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Components\\PizzaCard.razor",
+              "RelativeToolTip": "PizzaAppBlazor\\Components\\PizzaCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T13:15:33.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PizzaContext.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Data\\PizzaContext.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Data\\PizzaContext.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Data\\PizzaContext.cs",
-              "RelativeToolTip": "ContosoPizza\\Data\\PizzaContext.cs",
+              "Title": "PizzaTopping.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Data\\PizzaTopping.cs",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Data\\PizzaTopping.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Data\\PizzaTopping.cs",
+              "RelativeToolTip": "PizzaAppBlazor\\Data\\PizzaTopping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:22:51.648Z",
+              "WhenOpened": "2025-06-17T13:15:29.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Data\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Data\\PizzaSpecial.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Data\\PizzaSpecial.cs",
+              "RelativeToolTip": "PizzaAppBlazor\\Data\\PizzaSpecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:15:27.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Program.cs",
+              "RelativeToolTip": "PizzaAppBlazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:15:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "PizzaAppBlazor\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T13:03:41.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Sauce.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Models\\Sauce.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Sauce.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Models\\Sauce.cs",
-              "RelativeToolTip": "ContosoPizza\\Models\\Sauce.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:22:43.149Z",
+              "Title": "Pizzas.razor",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Pages\\Pizzas.razor",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\Pages\\Pizzas.razor",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\Pages\\Pizzas.razor",
+              "RelativeToolTip": "PizzaAppBlazor\\Pages\\Pizzas.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T13:02:24.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pizza.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Models\\Pizza.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Pizza.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Models\\Pizza.cs",
-              "RelativeToolTip": "ContosoPizza\\Models\\Pizza.cs",
+              "DocumentIndex": 8,
+              "Title": "PizzaAppBlazor",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\PizzaAppBlazor.csproj",
+              "RelativeDocumentMoniker": "PizzaAppBlazor\\PizzaAppBlazor.csproj",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\PizzaAppBlazor\\PizzaAppBlazor.csproj",
+              "RelativeToolTip": "PizzaAppBlazor\\PizzaAppBlazor.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T13:01:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Data\\Extensions.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Data\\Extensions.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Data\\Extensions.cs",
+              "RelativeToolTip": "ContosoPizza\\Data\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:38:58.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ContosoPizza\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:38:40.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Program.cs",
+              "RelativeToolTip": "ContosoPizza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:23:10.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T09:22:16.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Data\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Data\\PizzaContext.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Data\\PizzaContext.cs",
+              "RelativeToolTip": "ContosoPizza\\Data\\PizzaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:22:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sauce.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Models\\Sauce.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Models\\Sauce.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Models\\Sauce.cs",
+              "RelativeToolTip": "ContosoPizza\\Models\\Sauce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:22:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Topping.cs",
-              "DocumentMoniker": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Models\\Topping.cs",
+              "DocumentMoniker": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Models\\Topping.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Models\\Topping.cs",
-              "ToolTip": "C:\\Users\\cheri\\Downloads\\ContosoPizza\\ContosoPizza\\Models\\Topping.cs",
+              "ToolTip": "C:\\Users\\cheri\\OneDrive\\Documents\\GitHub\\Tp6-Archi\\ContosoPizza\\ContosoPizza\\Models\\Topping.cs",
               "RelativeToolTip": "ContosoPizza\\Models\\Topping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:22:31.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T09:22:31.885Z"
             }
           ]
         }

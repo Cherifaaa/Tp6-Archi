@@ -1,0 +1,7 @@
+@code {
+    [Parameter]
+    public PizzaTopping Topping { get; set; } = default!;
+}
+
+<h2>New Topping: @Topping.Name</h2>
+<p>Ingredients: @Topping.Ingredients</p>

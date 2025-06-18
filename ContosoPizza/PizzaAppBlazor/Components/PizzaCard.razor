@@ -1,0 +1,16 @@
+@using PizzaAppBlazor.Data
+@namespace PizzaAppBlazor.Components
+
+<div class="card">
+    <img src="@Pizza.ImageUrl" class="card-img-top" alt="@Pizza.Name" />
+    <div class="card-body">
+        <h5 class="card-title">@Pizza.Name</h5>
+        <p class="card-text">@Pizza.Description</p>
+        <p class="card-text"><strong>@Pizza.BasePrice €</strong></p>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public PizzaSpecial Pizza { get; set; } = default!;
+}

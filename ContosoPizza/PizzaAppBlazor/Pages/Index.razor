@@ -1,0 +1,24 @@
+@page "/"
+
+<h1>Bienvenue sur Contoso Pizza</h1>
+
+<p>Découvrez nos meilleures pizzas :</p>
+
+<div class="row">
+    <PizzaCard Pizza="new PizzaSpecial { 
+        Name = \"Margherita\", 
+        Description = \"Classique sauce tomate et mozzarella\", 
+        BasePrice = 8.50m, 
+        ImageUrl = \"img/pizzas/margherita.jpg\" 
+    }" />
+
+    <PizzaCard Pizza="new PizzaSpecial { 
+        Name = \"Reine\", 
+        Description = \"Jambon, champignons, fromage fondu\", 
+        BasePrice = 9.90m, 
+        ImageUrl = \"img/pizzas/reine.jpg\" 
+    }" />
+</div>
+
+@code {
+}

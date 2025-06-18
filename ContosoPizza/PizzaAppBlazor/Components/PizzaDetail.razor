@@ -1,0 +1,12 @@
+@using PizzaAppBlazor.Data
+
+<div>
+    <h2>@Pizza.Name</h2>
+    <p>@Pizza.Description</p>
+    <p><strong>@Pizza.BasePrice €</strong></p>
+</div>
+
+@code {
+    [Parameter]
+    public PizzaSpecial Pizza { get; set; } = default!;
+}
